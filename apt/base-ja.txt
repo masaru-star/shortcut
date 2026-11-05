@@ -1,4 +1,6 @@
+ubuntu-restricted-extras
 language-pack-ja
 language-pack-ja-base
 ibus-mozc
 ubuntu-defaults-ja
+firefox
