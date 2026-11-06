@@ -1,0 +1,13 @@
+jq
+yq
+ripgrep
+fd-find
+tree
+htop
+btop
+tmux
+screen
+shellcheck
+shfmt
+dos2unix
+moreutils
