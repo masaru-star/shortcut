@@ -1,0 +1,5 @@
+geany
+meld
+sqlitebrowser
+filezilla
+wireshark
